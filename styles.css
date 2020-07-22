@@ -48,7 +48,11 @@ footer a {
   margin-bottom: 50px;
 }
 footer a:hover {
-  background-color: #fcc347;
+  color: #fcc347;
+}
+.btn {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 @media screen and (max-width: 500px) {
   footer a {
